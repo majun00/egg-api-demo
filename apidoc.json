@@ -1,0 +1,7 @@
+{
+    "name": "egg-demo-api", 
+    "version": "1.0.0",
+    "description": "这是一个简单的apidoc的demo",
+    "title": "接口文档",
+    "url" : ""
+  }
